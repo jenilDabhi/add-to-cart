@@ -73,3 +73,7 @@ img{
 button:hover{
     background-color: antiquewhite;
 }
+
+.catrDisplay img{
+    width: 100px;
+}
