@@ -45,6 +45,7 @@ header a{
     padding: 20px 15px;
     background-color: rgb(221, 224, 227);
     border-radius: 10px;
+    margin-bottom: 50px;
 }
 
 .product-item:hover{
@@ -56,14 +57,13 @@ img{
     border-radius: 5%;
 }
 
-.details{
-    font-weight: bold;
-    padding: 20px 5px;
+.name{
+    margin-top: 10px;
 }
-.details h3{
-    margin: 10px 0;
+.price h3{
+    padding: 10px 0px;
 }
-.details button{
+.btn button{
     margin: 20px;
     padding: 10px 10px;
     border-radius: 5px;
@@ -71,5 +71,5 @@ img{
     cursor: pointer;
 }
 button:hover{
-    border: 1px solid black;
+    background-color: antiquewhite;
 }
